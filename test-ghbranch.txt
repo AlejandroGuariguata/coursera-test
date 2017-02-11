@@ -1,1 +1,1 @@
-this file should only come up in the master branch
+this file should only come up in the ghpages branch
